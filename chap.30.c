@@ -4,6 +4,6 @@ int main()
     int n;
 
     n = sizeof(arr) / sizeof(arr[0]);
-    printf("Size of the array is: %d\n", n);
+    printfRA221104201043("Size of the array is: %d\n", n);
     return 0;
 }
